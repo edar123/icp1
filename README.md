@@ -6,3 +6,5 @@ hello...
     2.1.Inputting string from user,,deleting two characters,,reverse the resultant string.
     2.2.inputting 2 strings from user and performing arithmetic operations on them-----performed add,subtract,multiply,divide operations
   3.without using 'regex',replacing occurence of 'python' in line with 'pythons'----used replace function
+  
+  screenshots of compiled code and execution of source code is added along with files
